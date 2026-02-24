@@ -99,5 +99,5 @@ Each row represents one professional football player.
 - **NumPy** – Numerical computations  
 - **Matplotlib & Seaborn** – Visualization  
 - **SciPy** – Statistical distributions & hypothesis testing  
-- **Jupyter Notebook** – Analysis environment  
+- **Jupyter Notebook** – Analysis environment
 
